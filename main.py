@@ -1,7 +1,7 @@
 """   
     @Author: smk
     @Create Time: 2025/11/22 16:40
-    @Description: 
+    @Description: 主函数,运行系统
 """
 import sys
 from settings import *
